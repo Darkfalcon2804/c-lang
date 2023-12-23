@@ -1,0 +1,16 @@
+// ////Q)WAP to count digits os a given number???
+
+// #include<stdio.h>
+// int main(){
+//     int no,count;
+//     printf("Enter the number:  ");
+//     scanf("%d",&no);
+//     count=0;
+//     while(no>0){
+//         no=no/10;////increment/decrement,work
+//         count++;////work
+//     }
+//     printf("Number of digits:%d",count);
+//     return 0;
+
+// }
