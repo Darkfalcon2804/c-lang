@@ -1,12 +1,13 @@
-// ////Q)WAP to count digits os a given number???
+// ////Q)WAP to count digits of a given number???
 
 // #include<stdio.h>
 // int main(){
-//     int no,count;
+//     int no,count,a;
 //     printf("Enter the number:  ");
 //     scanf("%d",&no);
 //     count=0;
 //     while(no>0){
+//.    a=no%10;
 //         no=no/10;////increment/decrement,work
 //         count++;////work
 //     }
