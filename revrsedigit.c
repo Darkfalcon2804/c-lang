@@ -1,4 +1,4 @@
-// ////Q)WAP to print a given number??????
+// ////Q)WAP to print rev of a given number??????
 
 // #include<stdio.h>
 // int main(){
