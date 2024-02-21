@@ -1,4 +1,4 @@
-/////Q)Find the second largest (distinct) element in array???
+/////Q)Find the second smallest (distinct) element in array???
 
 ////Method 1=by taking first element as min this method will give error when smallest element is on 0 index
 // #include<stdio.h>
@@ -16,10 +16,10 @@
 //         if(min>arr[i]) min=arr[i]; 
 //     }
 //     printf("Minimum element=%d\n",min); 
-//     int smax=arr[0];
+//     int smin=arr[0];
 //     for(int i=0;i<n;i++){
-//         if (arr[i]!=min &&smax>arr[i]) smax=arr[i];
-//     } printf("Second smallest element=%d\n",smax);
+//         if (arr[i]!=min &&smin>arr[i]) smin=arr[i];
+//     } printf("Second smallest element=%d\n",smin);
 //     return 0;
  //}
 
