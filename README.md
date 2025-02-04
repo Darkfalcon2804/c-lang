@@ -1,6 +1,6 @@
-# 🔷 C Language Projects
+# 🔷 C Language Basics
 
-Welcome to the **C Language Projects Repository**! 🚀 This repository contains various **C programs**, ranging from basic syntax to advanced concepts like data structures and algorithms.
+Welcome to the **C Language Basic Repository**! 🚀 This repository contains various **C programs**, ranging from basic syntax to advanced concepts like data structures and algorithms.
 
 ## 📁 Project Structure
 ```
