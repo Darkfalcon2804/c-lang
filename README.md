@@ -6,7 +6,6 @@ Welcome to the **C Language Projects Repository**! 🚀 This repository contains
 ```
 c-lang/
 │── basics/
-│── data-structures/
 │── algorithms/
 │── advanced/
 │── README.md
@@ -39,9 +38,7 @@ c-lang/
 ## 📚 Topics Covered
 ✅ Basic Syntax & Operators  
 ✅ Control Flow (Loops, Functions, Recursion)  
-✅ Arrays & Pointers  
-✅ Structures & File Handling  
-✅ Data Structures (Linked List, Stack, Queue, Trees)  
+✅ Arrays & Pointers    
 ✅ Algorithms (Sorting, Searching, Dynamic Programming)  
 
 ## 🤝 Contributing
